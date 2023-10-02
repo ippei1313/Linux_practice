@@ -1,0 +1,20 @@
+Script started on Mon Oct  2 06:48:43 2023
+[?1034hsh-4.2# exit[1@ãexitdocker stop centos7;[K[1@art centos7[1Pop centos7[1@art centos7[1Pop centos7;sh-4.2# ãexit[K[1Pexit[Khistory300
+sh: history300: command not found
+sh-4.2# history 300
+    1  docker exec -it centos7 bash
+    2  docker stop centos7
+    3  docker stop centos7
+    4  docker stop centos7
+    5  docker stop centos7
+    6  docker start centos7
+    7  docker stop centos7
+    8  docker stop centos7;
+    9  ãexit
+   10  exit
+   11  history300
+   12  history 300
+sh-4.2# exit
+exit
+
+Script done on Mon Oct  2 06:49:48 2023
